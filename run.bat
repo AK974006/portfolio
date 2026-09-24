@@ -1,0 +1,3 @@
+@echo off
+echo Opening Personal Portfolio Website in your default browser...
+start "" "index.html"
