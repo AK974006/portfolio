@@ -16,11 +16,11 @@ const exp = [
     desp: "<li><strong>Eddie AI Core:</strong> Built a local, voice-controlled desktop assistant incorporating local language models (Gemma), desktop automation scripts, and custom visual interface components.</li><li><strong>Languages & Tooling:</strong> Software development in Python, Java, C, C++, and Jetpack Compose, backed by active version control practices on GitHub (AK974006) and model hosting on Hugging Face.</li>",
   },
   {
-    title: "Hardware & Embedded Prototyping",
-    cardImage: "assets/images/experience-page/3.jpg",
-    place: "IoT & Embedded Systems",
+    title: "Cloud Operating System (Cloud OS)",
+    cardImage: "assets/images/cloud_os.png",
+    place: "Full-Stack Electron Application",
     time: "",
-    desp: "<li><strong>IoT & Embedded Systems:</strong> Hands-on circuit assembly and firmware development using microcontrollers, sensors, LCD displays, and breadboards to build traffic monitoring (ALPR/LiDAR concept) and network utility prototypes.</li>",
+    desp: "<li><strong>Full-Stack Architecture:</strong> Developed a complete desktop cloud interface using Electron, Vite, and React for a fluid, local-first user experience.</li><li><strong>Backend & AI Integration:</strong> Engineered a robust backend utilizing Python, Supabase, and local AI toolchains (Nova AI) for intelligent file management and seamless cloud capabilities.</li>",
   },
 ];
 
