@@ -22,7 +22,7 @@ const projects = [
     Githublink: "",
   },
   {
-    title: "Cloud OS - Personal Cloud Storage",
+    title: "EDDYCORE - Personal Cloud Storage",
     cardImage: "assets/images/cloud_os.png",
     description: "Designed REST APIs, secure storage, and UI environments. Integrated Supabase with Postgres for real-time data.",
     tagimg: "https://cdn.iconscout.com/icon/free/png-512/react-1-282599.png",

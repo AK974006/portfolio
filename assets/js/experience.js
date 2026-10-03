@@ -6,7 +6,7 @@ const exp = [
     cardImage: "assets/images/trishul_school.png",
     place: "School Platform & Prototyping",
     time: "",
-    desp: "<li><strong>School Platform Infrastructure:</strong> Managed full-stack web setup, hosting, and domain configuration for trishulschool.online, deploying frontend features on Vercel/GitHub and configuring local search indexing and Google Business profile optimization.</li><li><strong>Full-Stack Prototyping:</strong> Built dynamic user interface components using React, Vite, and Electron, focusing on responsive local-first web applications and storage management tools (such as Cloud OS platform architectures).</li>",
+    desp: "<li><strong>School Platform Infrastructure:</strong> Managed full-stack web setup, hosting, and domain configuration for trishulschool.online, deploying frontend features on Vercel/GitHub and configuring local search indexing and Google Business profile optimization.</li><li><strong>Full-Stack Prototyping:</strong> Built dynamic user interface components using React, Vite, and Electron, focusing on responsive local-first web applications and storage management tools (such as EDDYCORE platform architectures).</li>",
   },
   {
     title: "Software Engineering & Systems Architecture",
@@ -16,7 +16,7 @@ const exp = [
     desp: "<li><strong>Eddie AI Core:</strong> Built a local, voice-controlled desktop assistant incorporating local language models (Gemma), desktop automation scripts, and custom visual interface components.</li><li><strong>Languages & Tooling:</strong> Software development in Python, Java, C, C++, and Jetpack Compose, backed by active version control practices on GitHub (AK974006) and model hosting on Hugging Face.</li>",
   },
   {
-    title: "Cloud Operating System (Cloud OS)",
+    title: "Cloud Operating System (EDDYCORE)",
     cardImage: "assets/images/cloud_os.png",
     place: "Full-Stack Electron Application",
     time: "",
